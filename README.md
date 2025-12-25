@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-Chuyên ngành **Khoa học Máy tính (Computer Science)** tại **Trường Đại học Bách khoa - ĐHQG-HCM (HCMUT)**.
+**Computer Science** major at **HCMUT - Vietnam National University Ho Chi Minh City (HCMUT)**.
 
 ### 🛠 Tech Stack & Tools
 
