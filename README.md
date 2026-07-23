@@ -1,31 +1,71 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Thinh Nguyen</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">
+Computer Science Student • Full Stack Developer • AI & Cloud Enthusiast
+</h3>
 
-**Computer Science** major at **HCMUT - Vietnam National University Ho Chi Minh City (HCMUT)**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Full+Stack+Developer;Learning+Cloud+%26+AI;Always+Building+Something+New" />
+</p>
 
-### 🛠 Tech Stack & Tools
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+## 👨‍💻 About Me
 
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+- 🎓 Computer Science student at **Ho Chi Minh University of Technology (HCMUT)**
+- 💻 Interested in **Full Stack Development, Cloud Computing, AI, and Game Development**
+- 🌱 Currently learning **AWS, System Design, and Machine Learning**
+- 🚀 Passionate about building practical software that solves real-world problems
+- ⚡ Fun fact: I enjoy chess, game development, and exploring new technologies.
 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,java,js,html,css" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### Cloud & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,vscode" />
 </p>
 
 ---
 
-### 🤝 Connect with me
+## 📌 Current Focus
 
-<p align="left">
-  <a href="mailto:cbl.thinhnguyen@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/thinkj07/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+- ☁️ AWS Cloud
+- 🤖 Artificial Intelligence
+- 🌐 Full Stack Web Development
+- 🎮 Game Programming
+- 📚 Data Structures & Algorithms
+
+---
+
+## 📫 Connect with Me
+
+<p>
+<a href="mailto:cbl.thinhnguyen@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thinkj07/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 </p>
