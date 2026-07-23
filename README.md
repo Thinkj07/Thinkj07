@@ -29,7 +29,7 @@ Computer Science Student • Full Stack Developer • AI & Cloud Enthusiast
 
 
 ## 👨‍💻 About Me
-<img align="right" width="100" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" width="250" src="./src/meme.png">
 
 - 🎓 Computer Science student at **Ho Chi Minh University of Technology (HCMUT)**
 - 💻 Interested in **Full Stack Development, Cloud Computing, AI, and Game Dev**
